@@ -23,3 +23,9 @@ Documentation for the entire framework can be found on the [Laravel website](htt
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+## Elquent 使用详解
+  一对一
+  一对多
+  多对多
+  层级映射
