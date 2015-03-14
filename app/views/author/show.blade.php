@@ -1,0 +1,1 @@
+/Users/huhaoran/Desktop/equ/app/views/author/show.blade.php
